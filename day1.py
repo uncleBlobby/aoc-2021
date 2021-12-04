@@ -1,6 +1,3 @@
-# open input file
-inputFile = open("inputData")
-
 # read datalines in input file
 with open('inputData') as f:
     lines = f.readlines()
